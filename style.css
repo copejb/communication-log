@@ -2,3 +2,6 @@ body {
     color: white;
     background-color: blue;
  }
+ img {
+    width: 25vw;
+ }
